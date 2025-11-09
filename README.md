@@ -1,5 +1,7 @@
 # Software Quality & Testing Projects — Selenium Testing & AgerShipment
 
+This was one of my early experiences in software quality assurance and testing. The document summarizes multiple SQAT projects where I explored various testing methodologies and tools in real-world scenarios. While some areas can be refined further, this work gave me practical exposure to manual and automated testing, bug tracking, test case design, and reporting. It helped me understand the importance of quality assurance in the software development lifecycle and how to apply testing strategies effectively.
+
 **Course:** Software Quality and Testing (CSC4271)  
 **Projects:** Selenium IDE Testing (Mid Project) and AgerShipment (Final Project)
 
